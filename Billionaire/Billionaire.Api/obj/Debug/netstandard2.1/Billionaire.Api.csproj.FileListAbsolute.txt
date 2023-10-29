@@ -1,0 +1,5 @@
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\obj\Debug\netstandard2.1\Billionaire.Api.csproj.AssemblyReference.cache
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\obj\Debug\netstandard2.1\Billionaire.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\obj\Debug\netstandard2.1\Billionaire.Api.AssemblyInfoInputs.cache
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\obj\Debug\netstandard2.1\Billionaire.Api.AssemblyInfo.cs
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\obj\Debug\netstandard2.1\Billionaire.Api.csproj.CoreCompileInputs.cache

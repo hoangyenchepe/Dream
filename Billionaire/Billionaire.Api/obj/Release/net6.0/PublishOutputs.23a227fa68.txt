@@ -1,0 +1,11 @@
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Billionaire.Api.exe
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\appsettings.json
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Billionaire.Api.dll
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Billionaire.Api.deps.json
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Billionaire.Api.runtimeconfig.json
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Billionaire.Api.pdb
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
