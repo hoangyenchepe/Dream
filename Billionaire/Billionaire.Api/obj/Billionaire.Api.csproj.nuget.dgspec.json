@@ -1,27 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Yen\\Personal\\Tech\\GitHub\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj": {}
+    "D:\\Yen\\Personal\\KPI\\DevOps\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj": {}
   },
   "projects": {
-    "C:\\Yen\\Personal\\Tech\\GitHub\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj": {
+    "D:\\Yen\\Personal\\KPI\\DevOps\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Yen\\Personal\\Tech\\GitHub\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj",
+        "projectUniqueName": "D:\\Yen\\Personal\\KPI\\DevOps\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj",
         "projectName": "Billionaire.Api",
-        "projectPath": "C:\\Yen\\Personal\\Tech\\GitHub\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Yen\\Personal\\Tech\\GitHub\\Billionaire\\Billionaire\\Billionaire.Api\\obj\\",
+        "projectPath": "D:\\Yen\\Personal\\KPI\\DevOps\\Billionaire\\Billionaire\\Billionaire.Api\\Billionaire.Api.csproj",
+        "packagesPath": "C:\\Users\\yen.vo\\.nuget\\packages\\",
+        "outputPath": "D:\\Yen\\Personal\\KPI\\DevOps\\Billionaire\\Billionaire\\Billionaire.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yen.vo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget-dev.tekcent.com/api/odata": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,8 +62,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -34,3 +34,13 @@ C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Debug\ne
 C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Debug\net6.0\System.Text.Json.dll
 C:\Yen\Personal\Tech\GitHub\Billionaire\Billionaire\Billionaire.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.csproj.AssemblyReference.cache
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.AssemblyInfoInputs.cache
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.AssemblyInfo.cs
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.csproj.CoreCompileInputs.cache
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.dll
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\ref\Billionaire.Api.dll
+D:\Yen\Personal\KPI\DevOps\Billionaire\Billionaire\Billionaire.Api\obj\Debug\net6.0\Billionaire.Api.pdb
